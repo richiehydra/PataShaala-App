@@ -3,9 +3,9 @@ Pata-shaala is a Learning Management System (LMS) which is a software applicatio
 
 It Was Built Using Java ,Xml and Firebase Has been used as Database
 
-It Has Two Apps 1]Admin App 2]Users App
+## It Has Two Apps 1]For Admin 2]For Users
 
-1]Admin App
+## Admin App Screenshots
 
 <img src="https://github.com/richiehydra/PataShaala-App/blob/main/images/HomeAdmin.jpeg" width="30%"></img> 
 <img src="https://github.com/richiehydra/PataShaala-App/blob/main/images/NoticeAdmin.jpeg" width="30%"></img> 
@@ -14,7 +14,9 @@ It Has Two Apps 1]Admin App 2]Users App
 <img src="https://github.com/richiehydra/PataShaala-App/blob/main/images/FacultyAdmin.jpeg" width="30%"></img> 
 
 
-2]Users App
+
+
+## User App Screenshots
 
 
 <img src="https://github.com/richiehydra/PataShaala-App/blob/main/images/HomeUsers.jpeg" width="30%"></img> 
