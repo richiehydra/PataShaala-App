@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "105119182919",
+    "firebase_url": "https://paatashaala-2e81a-default-rtdb.firebaseio.com",
+    "project_id": "paatashaala-2e81a",
+    "storage_bucket": "paatashaala-2e81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105119182919:android:b0143599246edc56de8162",
+        "android_client_info": {
+          "package_name": "com.example.patashaala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105119182919-rcl890b9afk8c23eqn8rnp2a97l7jil0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaen-0qSVarIwZw7YfBfRN_nxSjZbEt5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105119182919-rcl890b9afk8c23eqn8rnp2a97l7jil0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105119182919:android:9a3119b182efcce4de8162",
+        "android_client_info": {
+          "package_name": "com.example.patashaala_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105119182919-rcl890b9afk8c23eqn8rnp2a97l7jil0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaen-0qSVarIwZw7YfBfRN_nxSjZbEt5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105119182919-rcl890b9afk8c23eqn8rnp2a97l7jil0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

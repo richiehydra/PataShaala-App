@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- notice_item_layout.xml -->
+<!-- activity_notices.xml -->
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+           
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:src="@drawable/baseline_logo_dev_24"/>
+            
+
+
+
+                 <LinearLayout
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_marginLeft="16dp"
+                     android:layout_margin="4dp"
+                     android:orientation="vertical">
+
+                     <TextView
+
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Admin@Dev Hub"
+                         android:layout_marginRight="10dp"
+                         android:textSize="18dp"
+                         android:shadowColor="@color/dark_gray"
+                         android:textColor="@color/black" />
+                     <LinearLayout
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content"
+                         android:orientation="horizontal">
+
+                         <TextView
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content"
+                             android:text="Date:"
+                             android:textColor="@color/black"/>
+
+                         <TextView
+                             android:id="@+id/date"
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content"
+                             android:text="20/07/2023"
+                             android:textColor="@color/black"/>
+
+                         <TextView
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content"
+                             android:layout_marginLeft="10dp"
+                             android:text="Time:"
+                             android:textColor="@color/black"/>
+
+
+                         <TextView
+                             android:id="@+id/time"
+                             android:layout_width="wrap_content"
+                             android:layout_height="wrap_content"
+                             android:text="19:50"
+                             android:textColor="@color/black"/>
+
+                     </LinearLayout>
+                 </LinearLayout>
+
+
+
+
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_marginVertical="16dp"
+            android:id="@+id/noticeTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Notice"
+            android:textSize="17sp"
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:id="@+id/imageNotice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"/>
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

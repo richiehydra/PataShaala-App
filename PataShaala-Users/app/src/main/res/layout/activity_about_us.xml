@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3F3F3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/baseline_logo_dev_24"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Developers Hub College"
+            android:textColor="#1976D2"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:textAlignment="center"
+            android:gravity="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#FFFFFF"
+            android:gravity="center"
+            android:lineSpacingExtra="8dp"
+            android:padding="16dp"
+            android:text="Developers Hub College is a dynamic and innovative educational institution dedicated to nurturing and empowering aspiring developers and tech enthusiasts. As a leading college in the field of technology and software development, we strive to provide a cutting-edge learning environment that fosters creativity, problem-solving skills, and technical expertise.\n\nWhether you are a beginner looking to kickstart your journey in programming or an experienced developer aiming to specialize in a particular field, Developers Hub College offers a wide range of courses and resources to cater to your needs.\n\nJoin us at Developers Hub College and embark on an exciting journey of discovery, learning, and growth in the ever-evolving world of technology."
+            android:textAlignment="center"
+            android:textColor="#444444"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+</ScrollView>
+
+
