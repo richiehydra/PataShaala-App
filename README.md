@@ -1,7 +1,7 @@
 # PataShaala-App
 Pata-shaala is a Learning Management System (LMS) which is a software application designed to facilitate the management of educational resources.It provides a facility  for instructors and learners to interact, access learning materials, track progress, and administer assessment
 
-It Was Built Using Java ,Xml and Firebase Has been used as Database
+It Was Built Using Java , Xml and Firebase Has been used as Database
 
 ## It Has Two Apps 1]For Admin 2]For Users
 
